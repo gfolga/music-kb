@@ -20,6 +20,7 @@ actualiza en cada ingest.
 - [Eduardo Darnauchans](entities/eduardo-darnauchans.md) — cancionista uruguayo, canción popular años 70
 - [Jaime Roos](entities/jaime-roos.md) — figura central de la música popular uruguaya; candombe, murga, milonga (1953–)
 - [Francis Andreu](entities/francis-andreu.md) — cantante uruguaya de tango; autora de *Francis Canta Jaime Roos* (2018)
+- [Estela Magnone](entities/estela-magnone.md) — cantante y compositora uruguaya; coros en Roos, álbum a dúo con él (1984/85)
 
 ## Canciones
 
