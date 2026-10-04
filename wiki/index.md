@@ -30,6 +30,7 @@ actualiza en cada ingest.
 ## Playlists
 
 - [Rada](playlists/rada.md) — exploración de los primeros trabajos de Rubén Rada: El Kinto, Tótem, Mateo (11 temas)
+- [Tango Nuevo](playlists/tango-nuevo.md) — tango nuevo y post-tango porteño desde los 90; Fernández Fierro, Laso, Cucuza (32 temas)
 
 ## Álbumes
 
