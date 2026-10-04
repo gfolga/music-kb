@@ -28,7 +28,12 @@ inversiones), el hermano `../health-kb` (salud) y `../../research`
     un nuevo archivo con sufijo de fecha (`<slug>-stats-2026-10.json`) en
     vez de sobreescribir, para preservar histórico. La sección "Escuchas"
     de la wiki referencia el archivo raw en vez de duplicar los datos.
-  - `raw/articles/` — reseñas, entrevistas, notas.
+  - `raw/articles/` — reseñas y notas escritas.
+  - `raw/interviews/` — transcript de un video o entrevista, tal cual se extrajo
+    (subtítulos automáticos incluidos, sin corregir el reconocimiento de voz).
+    Un archivo por fuente: `<slug>.md`, con un encabezado corto de procedencia
+    (URL, título, canal, fecha de extracción) y el transcript debajo. La
+    síntesis vive en `wiki/summaries/`, no acá.
   - `raw/assets/` — tapas, capturas y otros adjuntos.
 - `wiki/` — capa de síntesis, generada y mantenida enteramente por el LLM.
   - `wiki/index.md` — catálogo de todas las páginas, con un resumen de una

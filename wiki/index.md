@@ -47,7 +47,7 @@ actualiza en cada ingest.
 
 ## Summaries
 
-_(sin páginas todavía)_
+- [Jordi Longán analiza Angine de Poitrine](summaries/jordi-longan-analiza-angine-de-poitrine.md) — video de 16 min: 24-TET, looper, modulación métrica; tesis de que lo nuevo es la combinación, no cada recurso suelto
 
 ## Comparisons
 

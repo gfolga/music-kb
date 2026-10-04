@@ -85,6 +85,8 @@ Japón adoptó el género y lo transformó en algo más melódico y accesible:
 
 El math rock clásico manipula el *ritmo* pero generalmente usa afinación estándar occidental (12 tonos). [Angine de Poitrine](../entities/angine-de-poitrine.md) agrega una capa extra: la guitarra de doble cuello microtonal introduce intervalos que no existen en ese sistema. Es math rock en el ritmo y en la estructura, y algo distinto en la armonía — por eso el video de análisis ("no es lo que parece") genera extrañeza: a primera escucha suena raro sin que el oyente entienda exactamente por qué.
 
+El análisis de Jordi Longán ([summary](../summaries/jordi-longan-analiza-angine-de-poitrine.md)) precisa esa capa: 24-TET, cuartos de tono, y además modulación métrica (la misma melodía en 12/8 reagrupada por la batería en 4/4) y compases de amalgama.
+
 ---
 
 ## En esta wiki

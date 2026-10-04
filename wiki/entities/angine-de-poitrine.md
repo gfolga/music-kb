@@ -5,6 +5,7 @@ sources:
   - https://fr.wikipedia.org/wiki/Angine_de_poitrine_(groupe)
   - https://anginedepoitrine.bandcamp.com
   - https://atuvu.ca/index.php/artiste/angine-de-poitrine
+  - raw/interviews/jordi-longan-analiza-angine-de-poitrine.md
 updated: 2026-10-04
 spotify_uri: spotify:artist:13NmOYYfvONNZ9mn2qn8P2
 ---
@@ -51,4 +52,6 @@ Datos crudos en [`raw/listening-stats/angine-de-poitrine-stats.json`](../../raw/
 
 ## Notas
 
-El video de YouTube "Compositor profesional analiza ANGINE DE POITRINE (no es lo que parece)" fue gatillo para esta ficha; el título sugiere que su sonido desconcierta a primera escucha y que el análisis armónico/microtonal revela capa compositiva no evidente. El video no tiene transcript disponible.
+El video de Jordi Longán, [Compositor profesional analiza ANGINE DE POITRINE (no es lo que parece)](https://www.youtube.com/watch?v=vLoABLNxUaE), fue el gatillo de esta ficha. Transcript en [`raw/interviews/jordi-longan-analiza-angine-de-poitrine.md`](../../raw/interviews/jordi-longan-analiza-angine-de-poitrine.md); síntesis en [el summary](../summaries/jordi-longan-analiza-angine-de-poitrine.md).
+
+Según ese análisis (afirmaciones del video, no de la banda): tocan en 24-TET (cuartos de tono) en un doble mástil bajo+guitarra con trastes extra; en vivo arman capas con looper; *Sarniezz* le suena a shuffle en 12/8 y *Mata Zyklek* usa un 5/4 de amalgama (2/4+3/4). La tesis: cada recurso por separado ya existía; lo nuevo es juntar anonimato, math rock y microtonalidad.
