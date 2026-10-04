@@ -30,6 +30,9 @@ inversiones), el hermano `../health-kb` (salud) y `../../research`
   - `wiki/songs/` — una página por canción. También son entidades
     (`type: entity`); viven en carpeta propia para no mezclarse con el
     artista del mismo nombre.
+  - `wiki/albums/` — una página por álbum o compilación (`type: album`).
+    Incluye tracklist, datos de grabación, y contexto del lanzamiento.
+    URI de Spotify en el frontmatter cuando existe (`spotify_uri`).
   - `wiki/playlists/` — una página por playlist (`type: playlist`).
   - `wiki/concepts/` — síntesis que cruza varios artistas, canciones o
     playlists (un género, una época, un hilo de escucha).
@@ -49,15 +52,18 @@ inversiones), el hermano `../health-kb` (salud) y `../../research`
 - Canción: `wiki/songs/<titulo-slug>.md`. Si el título ya existe,
   desambiguar con el artista: `<titulo-slug>-<artista-slug>.md`.
 - Playlist: `wiki/playlists/<slug>.md`.
+- Álbum o compilación: `wiki/albums/<artista-slug>-<titulo-slug>.md`. Para
+  compilaciones de varios artistas, omitir el slug de artista:
+  `wiki/albums/<titulo-slug>.md`.
 - Los links entre páginas usan rutas relativas de Markdown:
   `[texto](../entities/foo.md)`, `[texto](../songs/foo.md)`,
-  `[texto](../playlists/foo.md)`.
+  `[texto](../albums/foo.md)`, `[texto](../playlists/foo.md)`.
 - Cada página de wiki empieza con un frontmatter mínimo:
 
   ```markdown
   ---
   title: Título legible
-  type: entity | playlist | concept | summary | comparison
+  type: entity | album | playlist | concept | summary | comparison
   sources: [raw/playlists/foo.csv, ...]
   updated: YYYY-MM-DD
   ---

@@ -23,6 +23,10 @@ actualiza en cada ingest.
 
 _(sin páginas todavía)_
 
+## Álbumes
+
+- [Charco: Canciones del Río de la Plata](albums/charco-canciones-del-rio-de-la-plata.md) — compilación / BSO del documental de Julián Chalde (2017); 20 temas en vivo con +70 músicos argentinos y uruguayos
+
 ## Concepts
 
 _(sin páginas todavía)_
