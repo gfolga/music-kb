@@ -9,11 +9,12 @@ actualiza en cada ingest.
 
 ## Artistas y bandas
 
-_(sin páginas todavía)_
+- [T. Rex](entities/t-rex.md) — banda de glam rock liderada por Marc Bolan (Londres, 1967–1977)
+- [Nick Cave](entities/nick-cave.md) — solista australiano de post-punk y art rock
 
 ## Canciones
 
-_(sin páginas todavía)_
+- [Cosmic Dancer](songs/cosmic-dancer.md) — T. Rex (1971); versión de Nick Cave; la más escuchada por Gustavo en 2026
 
 ## Playlists
 
