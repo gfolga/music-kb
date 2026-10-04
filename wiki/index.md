@@ -37,6 +37,7 @@ actualiza en cada ingest.
 
 - [Rada](playlists/rada.md)
 - [Circovoador](playlists/circovoador.md)
+- [Floripa2020](playlists/floripa2020.md) — viaje a Florianópolis 2020 con Inés; 26 tracks; Brasil tropical, reggae jamaicano, dub, afrobeat
 - [Empire of Light](playlists/empire-of-light.md) — temas vinculados a la película de Sam Mendes (2022); ska y 2-Tone inglés de los 80; The Specials, The Clash, The Beat, The Selecter — previas en Circo Voador, Rio de Janeiro; 13 tracks; música brasilera de raíz (coco, maracatu, manguebeat, bossa nova)
 - [Viaje a PC](playlists/viaje-a-pc.md) — playlist de viaje a Punta Colorada; 46 tracks; fuerte presencia de TOCH, Julián Venegas y Milongas Extremas — exploración de los primeros trabajos de Rubén Rada: El Kinto, Tótem, Mateo (11 temas)
 - [Tango Nuevo](playlists/tango-nuevo.md) — tango nuevo y post-tango porteño desde los 90; Fernández Fierro, Laso, Cucuza (32 temas)
