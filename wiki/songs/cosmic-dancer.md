@@ -25,7 +25,7 @@ La versión de Nick Cave le da un tono más oscuro y despojado: toma algo brilla
 
 - **T. Rex** — original en *Electric Warrior* (1971)
 - **Nick Cave** — versión para *AngelHeaded Hipster* (2021). La favorita de Gustavo.
-- **David Bowie y Morrissey** — dueto en vivo en el Inglewood Forum, Los Ángeles, 2 de junio de 1991. Publicado oficialmente en 2021. Morrissey abría los shows de la gira de Bowie; ambos eran devotos declarados de Marc Bolan, y eso los llevó a cruzarse en esta canción.
+- **David Bowie y Morrissey** — dueto en vivo en el Inglewood Forum, Los Ángeles, 2 de junio de 1991. Era el tour *Kill Uncle* de Morrissey (gira por EE.UU., 1991); Bowie subió al escenario como invitado. La grabación estuvo inédita por décadas y se publicó oficialmente el 19 de febrero de 2021 vía Rhino, en single digital y en 7". Bowie y Morrissey compartían una fascinación declarada por Marc Bolan y el glam rock, lo que motivó el encuentro.
 
 ## Guitarra rítmica
 

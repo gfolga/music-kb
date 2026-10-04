@@ -11,6 +11,8 @@ actualiza en cada ingest.
 
 - [T. Rex](entities/t-rex.md) — banda de glam rock liderada por Marc Bolan (Londres, 1967–1977)
 - [Nick Cave](entities/nick-cave.md) — solista australiano de post-punk y art rock
+- [David Bowie](entities/david-bowie.md) — solista británico de glam rock y art rock (Londres, 1962–2016)
+- [Morrissey](entities/morrissey.md) — solista británico, ex The Smiths; devoto de Marc Bolan
 
 ## Canciones
 
