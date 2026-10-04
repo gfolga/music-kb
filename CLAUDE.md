@@ -16,8 +16,11 @@ inversiones), el hermano `../health-kb` (salud) y `../../research`
 - `raw/` — fuentes crudas e inmutables (exports de playlists, letras,
   reseñas, notas de escucha, capturas). El LLM las lee pero nunca las
   modifica. Son la fuente de verdad.
-  - `raw/playlists/` — export original de una playlist (CSV, JSON, texto
-    pegado). La página de síntesis vive en `wiki/playlists/`, no acá.
+  - `raw/playlists/` — export original de una playlist. Dos archivos por playlist:
+    `<slug>.csv` (columnas: name, artist, album, spotify_uri) para herramientas
+    como Exportify o TuneMyMusic; `<slug>-uris.json` (array de URIs + metadata)
+    para reimportar vía `spotify_cli` o la API de Spotify. La página de síntesis
+    vive en `wiki/playlists/`, no acá.
   - `raw/articles/` — reseñas, entrevistas, notas.
   - `raw/assets/` — tapas, capturas y otros adjuntos.
 - `wiki/` — capa de síntesis, generada y mantenida enteramente por el LLM.
