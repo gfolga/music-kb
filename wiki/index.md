@@ -22,10 +22,12 @@ actualiza en cada ingest.
 - [Francis Andreu](entities/francis-andreu.md) — cantante uruguaya de tango; autora de *Francis Canta Jaime Roos* (2018)
 - [Estela Magnone](entities/estela-magnone.md) — cantante y compositora uruguaya; coros en Roos, álbum a dúo con él (1984/85)
 - [Angine de Poitrine](entities/angine-de-poitrine.md) — dúo de math rock / rock microtonal de Saguenay, Quebec (2019–)
+- [Tabaré Leyton](entities/tabare-leyton.md) — cantante y murguista uruguayo; tango, neotango, candombe (Montevideo)
 
 ## Canciones
 
 - [Cosmic Dancer](songs/cosmic-dancer.md) — T. Rex (1971); versión de Nick Cave; la más escuchada por Gustavo en 2026
+- [Tabernero](songs/tabernero.md) — Tabaré Leyton; neotango montevideano; 3 escuchas sept 2026
 - [No Dejes Que](songs/no-dejes-que.md) — Jaime Roos (*Estamos Rodeados*, 1991); versión de Francis Andreu (2018)
 
 ## Playlists
