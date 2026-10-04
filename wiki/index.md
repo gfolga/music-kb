@@ -23,6 +23,7 @@ actualiza en cada ingest.
 - [Estela Magnone](entities/estela-magnone.md) — cantante y compositora uruguaya; coros en Roos, álbum a dúo con él (1984/85)
 - [Angine de Poitrine](entities/angine-de-poitrine.md) — dúo de math rock / rock microtonal de Saguenay, Quebec (2019–)
 - [Tabaré Leyton](entities/tabare-leyton.md) — cantante y murguista uruguayo; tango, neotango, candombe (Montevideo)
+- [TOCH](entities/toch.md) — trío de Córdoba, Argentina; folklore/rock/reggae con bandoneón como instrumento central (2007–)
 
 ## Canciones
 
@@ -44,6 +45,7 @@ actualiza en cada ingest.
 
 - [Integración musical rioplatense](concepts/integracion-rioplatense.md) — géneros, artistas y tradición compartida entre Argentina y Uruguay; anclado en el proyecto *Charco* (2017)
 - [Math Rock](concepts/math-rock.md) — subgénero del rock alternativo; compases irregulares, guitarras angulares, estructuras no convencionales
+- [Folk-rock de raíz latinoamericana (Argentina)](concepts/folk-rock-raiz-latinoamericana.md) — corriente que cruza rock, folklore y reggae; Córdoba como epicentro; TOCH, Los Espíritus, Eruca Sativa
 
 ## Summaries
 

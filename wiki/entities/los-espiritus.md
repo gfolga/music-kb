@@ -45,6 +45,10 @@ Jimi Hendrix, The Zombies, Thirteenth Floor Elevators, John Lee Hooker, Muddy Wa
 
 ## Playlists
 
+## Conceptos relacionados
+
+- [Folk-rock de raíz latinoamericana (Argentina)](../concepts/folk-rock-raiz-latinoamericana.md) — movida en la que se inscriben junto a TOCH, Eruca Sativa y Divididos
+
 ## Notas
 
 Escuchados por Gustavo a partir de octubre 2026.
