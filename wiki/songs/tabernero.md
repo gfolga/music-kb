@@ -3,7 +3,7 @@ title: Tabernero (El tabernero)
 type: entity
 sources:
   - https://www.todotango.com/musica/tema/1761/Tabernero-El-tabernero/
-  - https://www.reynaranjo.net/libros/el-origen-de-las-palabras-sexta-edicion/
+  - https://www.gub.uy/ministerio-educacion-cultura/comunicacion/publicaciones/hacia-etimologia-intimidad
 updated: 2026-10-04
 spotify_uri: spotify:track:1l15moKf17CUVurGgdVtYZ
 ---
@@ -39,7 +39,7 @@ La palabra *tabernero* viene del latín *taberna* (posada, lugar de bebidas), y 
 
 ## Por qué está
 
-La canción y su letra son mencionadas en **El origen de las palabras** de **Ricardo Soca** (lingüista y periodista uruguayo; Rey Naranjo Editores), un diccionario etimológico ilustrado del español. Soca la usa probablemente para ilustrar el uso de *tabernero* como palabra viva en la canción popular rioplatense.
+La canción y su letra son mencionadas en **El origen de las palabras** de **Damián González Bertolino** (escritor uruguayo, Punta del Este, 1980; Premio Nacional de Narrativa 2009 por *El increíble Springer*). El libro fue publicado por **Estuario** en **2021** y se inscribe en la narrativa literaria uruguaya contemporánea — memoria, infancia, familia, barrio. Que cite "Tabernero" sugiere que la canción opera como referencia afectiva o cultural en la voz del narrador, no como dato enciclopédico.
 
 ## Notas
 
