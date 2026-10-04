@@ -51,6 +51,7 @@ actualiza en cada ingest.
 - [Integración musical rioplatense](concepts/integracion-rioplatense.md) — géneros, artistas y tradición compartida entre Argentina y Uruguay; anclado en el proyecto *Charco* (2017)
 - [Math Rock](concepts/math-rock.md) — subgénero del rock alternativo; compases irregulares, guitarras angulares, estructuras no convencionales
 - [Folk-rock de raíz latinoamericana (Argentina)](concepts/folk-rock-raiz-latinoamericana.md)
+- [2-Tone](concepts/2-tone.md) — movimiento ska/punk inglés 1979–1982; Coventry; integración racial; The Specials, The Clash, The Beat, The Selecter; vinculado a *Empire of Light* (2022)
 
 ## Resúmenes anuales
 

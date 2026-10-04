@@ -42,6 +42,10 @@ La playlist captura el paisaje sonoro de la película: el **ska y el 2-Tone** br
 - **The Selecter** — 3 tracks; Coventry, 1979; parte del sello 2-Tone
 - **The Beat** — 4 tracks; Birmingham, 1978; ska/pop con influencias reggae y soul
 
+## Ver también
+
+- [2-Tone](../concepts/2-tone.md) — historia completa del movimiento, contexto político y las bandas
+
 ## El movimiento 2-Tone
 
 El **2-Tone** fue un movimiento musical y político surgido en Coventry a finales de los 70, fundado por Jerry Dammers de The Specials. El nombre aludía explícitamente a la integración racial: discos en blanco y negro, bandas mixtas, letras sobre racismo, desempleo y violencia policial. Era la respuesta musical directa al auge del National Front y los disturbios de Brixton (1981).
