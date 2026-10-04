@@ -1,0 +1,19 @@
+{
+  "artist": "TOCH",
+  "spotify_uri": "spotify:artist:7r7XEUl7em4hljrgEDh4uJ",
+  "extracted": "2026-10-04",
+  "period": "hasta 2026-10-04",
+  "total_plays": 632,
+  "top_tracks": [
+    { "title": "Famatina",          "uri": "spotify:track:6IQauVr82s0SyN0OuPmX3l", "plays": 82 },
+    { "title": "Plantas",           "uri": "spotify:track:7aLUKVYaJbffvhrkiox66h", "plays": 42 },
+    { "title": "Milonga del Mar",   "uri": "spotify:track:0ykjgDytqNVP2VXACJR5xr", "plays": 39 },
+    { "title": "Resaltabas",        "uri": "spotify:track:7wIZpPMYO6HUHaiPbOTaIE", "plays": 33 },
+    { "title": "Cumbia de la Soledad", "uri": "spotify:track:0MmfFVV2wMDO0n5T2wspwW", "plays": 29 },
+    { "title": "Cóndor",            "uri": "spotify:track:6khsp3lKIyhI5fMZLjX1sc", "plays": 25 },
+    { "title": "Punto ciego",       "uri": "spotify:track:7oFxQJSxQme2uqkvf9ApvO", "plays": 22 },
+    { "title": "85",                "uri": "spotify:track:3QQoPd9NnqUMN8ylOWArKv", "plays": 22 },
+    { "title": "Revuelta",          "uri": "spotify:track:0DaMn9f3v5t7tVSnfLUmfc", "plays": 21 },
+    { "title": "No tiene miedo",    "uri": "spotify:track:29xyRkCDkBoYJe3tJOuJ0l", "plays": 21 }
+  ]
+}

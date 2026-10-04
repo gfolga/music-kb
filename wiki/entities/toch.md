@@ -36,6 +36,23 @@ Su sonido cruza ritmos andinos, rioplatenses y centroamericanos con la energía 
 | 2022 | *Devolviendo Luces* | Último álbum documentado al 2024 |
 | 2025 | *Pulso Inicial* | |
 
+## Escuchas (Gustavo)
+
+Datos crudos en [`raw/listening-stats/toch-stats.json`](../../raw/listening-stats/toch-stats.json) — snapshot al 2026-10-04.
+
+- **Total de escuchas**: 632
+- **Top canciones**:
+  1. *Famatina* — 82
+  2. *Plantas* — 42
+  3. *Milonga del Mar* — 39
+  4. *Resaltabas* — 33
+  5. *Cumbia de la Soledad* — 29
+  6. *Cóndor* — 25
+  7. *Punto ciego* — 22
+  8. *85* — 22
+  9. *Revuelta* — 21
+  10. *No tiene miedo* — 21
+
 ## Contexto
 
 Ver concepto [Folk-rock de raíz latinoamericana (Argentina)](../concepts/folk-rock-raiz-latinoamericana.md) — la movida en la que se inscriben, con bandas como Los Espíritus, Eruca Sativa y Divididos.
