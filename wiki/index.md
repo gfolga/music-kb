@@ -37,6 +37,7 @@ actualiza en cada ingest.
 
 - [Rada](playlists/rada.md)
 - [Circovoador](playlists/circovoador.md)
+- [España](playlists/espana.md) — viaje a España con Inés; 12 tracks; La Movida Madrileña (Gabinete Caligari, Loquillo, Radio Futura, Duncan Dhu)
 - [Floripa2020](playlists/floripa2020.md) — viaje a Florianópolis 2020 con Inés; 26 tracks; Brasil tropical, reggae jamaicano, dub, afrobeat
 - [Empire of Light](playlists/empire-of-light.md) — temas vinculados a la película de Sam Mendes (2022); ska y 2-Tone inglés de los 80; The Specials, The Clash, The Beat, The Selecter — previas en Circo Voador, Rio de Janeiro; 13 tracks; música brasilera de raíz (coco, maracatu, manguebeat, bossa nova)
 - [Viaje a PC](playlists/viaje-a-pc.md) — playlist de viaje a Punta Colorada; 46 tracks; fuerte presencia de TOCH, Julián Venegas y Milongas Extremas — exploración de los primeros trabajos de Rubén Rada: El Kinto, Tótem, Mateo (11 temas)
