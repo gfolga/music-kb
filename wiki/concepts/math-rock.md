@@ -90,3 +90,4 @@ El math rock clásico manipula el *ritmo* pero generalmente usa afinación está
 ## En esta wiki
 
 - [Angine de Poitrine](../entities/angine-de-poitrine.md) — punto de entrada de Gustavo al género; dúo de Quebec con guitarra microtonal (161 escuchas)
+- [Math Rock: Historia y Exponentes](../playlists/math-rock-historia-y-exponentes.md) — playlist de exploración generada a partir de este concepto; 15 temas en orden cronológico
