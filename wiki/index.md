@@ -24,6 +24,7 @@ actualiza en cada ingest.
 - [Angine de Poitrine](entities/angine-de-poitrine.md) — dúo de math rock / rock microtonal de Saguenay, Quebec (2019–)
 - [Tabaré Leyton](entities/tabare-leyton.md) — cantante y murguista uruguayo; tango, neotango, candombe (Montevideo)
 - [TOCH](entities/toch.md) — trío de Córdoba, Argentina; folklore/rock/reggae con bandoneón como instrumento central (2007–)
+- [Milongas Extremas](entities/milongas-extremas.md) — quinteto de cuerdas criollas, Montevideo; milonga/folklore/rock criollo; #2 artista más escuchado (1.730 plays)
 
 ## Canciones
 

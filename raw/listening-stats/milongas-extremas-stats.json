@@ -1,0 +1,18 @@
+{
+  "artist": "Milongas Extremas",
+  "spotify_uri": "spotify:artist:2UKmhgcS0rsr1d4xw0xFxq",
+  "extracted": "2026-10-04",
+  "period": "historial completo disponible hasta 2026-10-04",
+  "total_plays": 1730,
+  "global_rank": 2,
+  "top_tracks": [
+    { "title": "Mi Condición",  "uri": "spotify:track:708TnuFWVO3sFJolsWS9N3", "plays": 177, "album": "Temprano",        "global_rank": 1 },
+    { "title": "A Fuego",       "uri": "spotify:track:4vRx3aHxThoOsk4L9Buv36", "plays": 122, "album": "Milongas Extremas", "global_rank": 3 },
+    { "title": "Decidí",        "uri": "spotify:track:1qsMXjK8YJ1ZJH7hNuXPlR", "plays": 105, "album": "Milongas Extremas", "global_rank": 6 },
+    { "title": "Salir",         "uri": "spotify:track:46oBQSQmFwVR4jmejv6q6G", "plays": 94,  "album": "Milongas Extremas", "global_rank": 12 },
+    { "title": "Rompe el Reloj","uri": "spotify:track:1Kk48ULpo2xRSn6zjrOXJQ", "plays": 93,  "album": "Temprano",        "global_rank": 13 },
+    { "title": "Decime",        "uri": "spotify:track:2rGOn3kOBDcSX4S6KMlN5Q", "plays": 86,  "album": "Temprano",        "global_rank": 20 },
+    { "title": "Susurro",       "uri": "spotify:track:5PJmrrTu7zZcFMUzNYVaAA", "plays": 72,  "album": "Temprano",        "global_rank": 25 },
+    { "title": "Cuídame",       "uri": "spotify:track:2vZKdX1f9nzZoYFysd4iap", "plays": 60,  "album": "El Mismo Cielo",  "global_rank": 48 }
+  ]
+}
