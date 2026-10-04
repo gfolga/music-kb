@@ -21,6 +21,13 @@ inversiones), el hermano `../health-kb` (salud) y `../../research`
     como Exportify o TuneMyMusic; `<slug>-uris.json` (array de URIs + metadata)
     para reimportar vía `spotify_cli` o la API de Spotify. La página de síntesis
     vive en `wiki/playlists/`, no acá.
+  - `raw/listening-stats/` — snapshots de escuchas de Gustavo por artista.
+    Un archivo por artista: `<slug>-stats.json` con campos `artist`,
+    `spotify_uri`, `extracted` (fecha ISO), `period`, `total_plays` y
+    `top_tracks` (array con `title`, `uri`, `plays`). Al actualizar, agregar
+    un nuevo archivo con sufijo de fecha (`<slug>-stats-2026-10.json`) en
+    vez de sobreescribir, para preservar histórico. La sección "Escuchas"
+    de la wiki referencia el archivo raw en vez de duplicar los datos.
   - `raw/articles/` — reseñas, entrevistas, notas.
   - `raw/assets/` — tapas, capturas y otros adjuntos.
 - `wiki/` — capa de síntesis, generada y mantenida enteramente por el LLM.

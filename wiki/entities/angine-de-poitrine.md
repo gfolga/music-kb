@@ -35,15 +35,15 @@ Desde el lanzamiento de *Vol. I* en 2024 generaron entusiasmo creciente en festi
 
 ## Escuchas (Gustavo)
 
-Stats del historial disponible hasta el 4 de octubre de 2026:
+Datos crudos en [`raw/listening-stats/angine-de-poitrine-stats.json`](../../raw/listening-stats/angine-de-poitrine-stats.json) — snapshot al 2026-10-04.
 
 - **Total de escuchas**: 161
-- **Top canciones escuchadas**:
-  1. *Mata Zyklek* — 25 escuchas
-  2. *Utzp* — 24 escuchas
-  3. *Sarniezz* — 18 escuchas
-  4. *Fabienk* — 17 escuchas
-  5. *Tohogd* — 17 escuchas
+- **Top canciones**:
+  1. *Mata Zyklek* — 25
+  2. *Utzp* — 24
+  3. *Sarniezz* — 18
+  4. *Fabienk* — 17
+  5. *Tohogd* — 17
 
 ## Notas
 

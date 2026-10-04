@@ -1,0 +1,14 @@
+{
+  "artist": "Angine de Poitrine",
+  "spotify_uri": "spotify:artist:13NmOYYfvONNZ9mn2qn8P2",
+  "extracted": "2026-10-04",
+  "period": "hasta 2026-10-04",
+  "total_plays": 161,
+  "top_tracks": [
+    { "title": "Mata Zyklek", "uri": "spotify:track:5vAwtTz0syQ1Q86R1B3faz", "plays": 25 },
+    { "title": "Utzp",        "uri": "spotify:track:0gOaJ646z6OJv4lLDpjfDt", "plays": 24 },
+    { "title": "Sarniezz",    "uri": "spotify:track:19MAOZLmfFnZZVMdGraCEQ", "plays": 18 },
+    { "title": "Fabienk",     "uri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt", "plays": 17 },
+    { "title": "Tohogd",      "uri": "spotify:track:1KVkzkmFBx4A8bCma6ruKA", "plays": 17 }
+  ]
+}
