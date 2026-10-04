@@ -13,6 +13,7 @@ actualiza en cada ingest.
 - [Nick Cave](entities/nick-cave.md) — solista australiano de post-punk y art rock
 - [David Bowie](entities/david-bowie.md) — solista británico de glam rock y art rock (Londres, 1962–2016)
 - [Morrissey](entities/morrissey.md) — solista británico, ex The Smiths; devoto de Marc Bolan
+- [Los Espíritus](entities/los-espiritus.md) — banda de rock y blues psicodélico de Buenos Aires (2010–)
 
 ## Canciones
 
