@@ -37,9 +37,10 @@ actualiza en cada ingest.
 
 - [Charco: Canciones del Río de la Plata](albums/charco-canciones-del-rio-de-la-plata.md) — compilación / BSO del documental de Julián Chalde (2017); 20 temas en vivo con +70 músicos argentinos y uruguayos
 
-## Concepts
+## Conceptos
 
 - [Integración musical rioplatense](concepts/integracion-rioplatense.md) — géneros, artistas y tradición compartida entre Argentina y Uruguay; anclado en el proyecto *Charco* (2017)
+- [Math Rock](concepts/math-rock.md) — subgénero del rock alternativo; compases irregulares, guitarras angulares, estructuras no convencionales
 
 ## Summaries
 

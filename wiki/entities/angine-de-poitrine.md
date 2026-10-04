@@ -17,6 +17,10 @@ spotify_uri: spotify:artist:13NmOYYfvONNZ9mn2qn8P2
 - **Géneros**: Math rock, rock microtonal, psych rock experimental, groove rock
 - **Integrantes**: Khn de Poitrine, Klek de Poitrine (identidades anónimas)
 
+## Géneros relacionados
+
+- [Math Rock](../concepts/math-rock.md) — base rítmica y estructural del sonido de la banda
+
 ## Descripción
 
 Dúo experimental de Quebec que combina guitarra doble cuello microtonal con baterías de groove ajustado. Su sonido es asimétrico y disonante — riffs hipnóticos, ritmos poco convencionales y un approach casi ceremonial al rock. Están pensados como "viajeros del espacio-tiempo" que contemplan el rock con asombro; el proyecto es conscientemente anónimo.
