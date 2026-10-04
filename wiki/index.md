@@ -51,6 +51,8 @@ actualiza en cada ingest.
 
 ## Resúmenes anuales
 
+- [2014](summary/2014.md) — #1 artista: Red Hot Chili Peppers · #1 canción: Estadio Azteca (Calamaro) — primer año con historial
+- [2015](summary/2015.md) — #1 artista: Red Hot Chili Peppers · #1 canción: Same Shit / Complicated (Kimya Dawson)
 - [2016](summary/2016.md) — #1 artista: Villazul · #1 canción: No Te Vayas (Marama)
 - [2017](summary/2017.md) — #1 artista: Conjunto Falopa · #1 canción: Mi Condición (Milongas Extremas)
 - [2018](summary/2018.md) — #1 artista: Arnaldo Antunes · #1 canción: Soy Mi Soberano (Gustavo Cordera)
