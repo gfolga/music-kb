@@ -28,6 +28,7 @@ actualiza en cada ingest.
 ## Canciones
 
 - [Cosmic Dancer](songs/cosmic-dancer.md) — T. Rex (1971); versión de Nick Cave; la más escuchada por Gustavo en 2026
+- [Famatina](songs/famatina.md) — TOCH (*Amor Continental*, 2014); canción de contenido territorial; 82 escuchas de Gustavo
 - [Tabernero](songs/tabernero.md) — Tabaré Leyton; neotango montevideano; 3 escuchas sept 2026
 - [No Dejes Que](songs/no-dejes-que.md) — Jaime Roos (*Estamos Rodeados*, 1991); versión de Francis Andreu (2018)
 

@@ -53,6 +53,10 @@ Datos crudos en [`raw/listening-stats/toch-stats.json`](../../raw/listening-stat
   9. *Revuelta* — 21
   10. *No tiene miedo* — 21
 
+## Canciones
+
+- [Famatina](../songs/famatina.md) — top 1 de Gustavo (82 escuchas); canción sobre el conflicto minero de La Rioja 2012
+
 ## Contexto
 
 Ver concepto [Folk-rock de raíz latinoamericana (Argentina)](../concepts/folk-rock-raiz-latinoamericana.md) — la movida en la que se inscriben, con bandas como Los Espíritus, Eruca Sativa y Divididos.
