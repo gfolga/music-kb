@@ -14,6 +14,10 @@ actualiza en cada ingest.
 - [David Bowie](entities/david-bowie.md) — solista británico de glam rock y art rock (Londres, 1962–2016)
 - [Morrissey](entities/morrissey.md) — solista británico, ex The Smiths; devoto de Marc Bolan
 - [Los Espíritus](entities/los-espiritus.md) — banda de rock y blues psicodélico de Buenos Aires (2010–)
+- [Tótem Uruguay](entities/totem-uruguay.md) — candombe-rock montevideano con Rubén Rada (1971–1973)
+- [El Kinto](entities/el-kinto.md) — pioneros del candombe beat uruguayo; Mateo y Rada (1967–c.1970)
+- [Eduardo Mateo](entities/eduardo-mateo.md) — figura fundacional del candombe beat uruguayo
+- [Eduardo Darnauchans](entities/eduardo-darnauchans.md) — cancionista uruguayo, canción popular años 70
 
 ## Canciones
 
@@ -21,7 +25,7 @@ actualiza en cada ingest.
 
 ## Playlists
 
-_(sin páginas todavía)_
+- [Rada](playlists/rada.md) — exploración de los primeros trabajos de Rubén Rada: El Kinto, Tótem, Mateo (11 temas)
 
 ## Álbumes
 
