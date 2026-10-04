@@ -18,10 +18,13 @@ actualiza en cada ingest.
 - [El Kinto](entities/el-kinto.md) — pioneros del candombe beat uruguayo; Mateo y Rada (1967–c.1970)
 - [Eduardo Mateo](entities/eduardo-mateo.md) — figura fundacional del candombe beat uruguayo
 - [Eduardo Darnauchans](entities/eduardo-darnauchans.md) — cancionista uruguayo, canción popular años 70
+- [Jaime Roos](entities/jaime-roos.md) — figura central de la música popular uruguaya; candombe, murga, milonga (1953–)
+- [Francis Andreu](entities/francis-andreu.md) — cantante uruguaya de tango; autora de *Francis Canta Jaime Roos* (2018)
 
 ## Canciones
 
 - [Cosmic Dancer](songs/cosmic-dancer.md) — T. Rex (1971); versión de Nick Cave; la más escuchada por Gustavo en 2026
+- [No Dejes Que](songs/no-dejes-que.md) — Jaime Roos (*Estamos Rodeados*, 1991); versión de Francis Andreu (2018)
 
 ## Playlists
 
