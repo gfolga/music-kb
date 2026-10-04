@@ -36,6 +36,7 @@ actualiza en cada ingest.
 ## Playlists
 
 - [Rada](playlists/rada.md)
+- [Circovoador](playlists/circovoador.md) — previas en Circo Voador, Rio de Janeiro; 13 tracks; música brasilera de raíz (coco, maracatu, manguebeat, bossa nova)
 - [Viaje a PC](playlists/viaje-a-pc.md) — playlist de viaje a Punta Colorada; 46 tracks; fuerte presencia de TOCH, Julián Venegas y Milongas Extremas — exploración de los primeros trabajos de Rubén Rada: El Kinto, Tótem, Mateo (11 temas)
 - [Tango Nuevo](playlists/tango-nuevo.md) — tango nuevo y post-tango porteño desde los 90; Fernández Fierro, Laso, Cucuza (32 temas)
 - [Math Rock: Historia y Exponentes](playlists/math-rock-historia-y-exponentes.md) — recorrido cronológico del género; Reich a Angine de Poitrine (15 temas)
