@@ -29,7 +29,7 @@ _(sin páginas todavía)_
 
 ## Concepts
 
-_(sin páginas todavía)_
+- [Integración musical rioplatense](concepts/integracion-rioplatense.md) — géneros, artistas y tradición compartida entre Argentina y Uruguay; anclado en el proyecto *Charco* (2017)
 
 ## Summaries
 

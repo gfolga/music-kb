@@ -21,9 +21,19 @@ Las 20 canciones fueron grabadas en vivo especialmente para la película, en ver
 
 ## El documental
 
-**Charco: Canciones del Río de la Plata** es un documental musical dirigido por **Julián Chalde**. Recorre la música rioplatense desde sus raíces en géneros como el tango, el candombe y la murga hasta el rock y la cumbia, trazando un mapa de esa tradición compartida entre Argentina y Uruguay, con foco en su desarrollo desde los años 60. Estrenado en Argentina el 16 de agosto de 2018.
+**Charco: Canciones del Río de la Plata** es un documental musical dirigido por **Julián Chalde**, producido por el ingeniero de sonido **Andrés Mayo** y guionado por el periodista **Martín Graziano** (autor de *Tigres en la lluvia*, libro sobre Luis Alberto Spinetta). Estrenado en Argentina el 16 de agosto de 2018 en el Espacio INCAA Gaumont, Buenos Aires.
 
-El proyecto surgió como declaración de integración cultural: más de 70 músicos de ambos países, muchos de ellos sin haber colaborado antes, interpretando canciones que cruzan géneros y generaciones.
+La película es narrada y conducida por **Pablo Dacal**, quien cruza el río una y otra vez para recorrer bares, estudios de grabación y calles adoquinadas en Buenos Aires y Montevideo. Registra conversaciones y actuaciones en espacios concretos: Mandrake Wolf en un bar de Montevideo, Jorge Serrano y Onda Vaga en el Café San Bernardo de Villa Crespo, Martín Buscaglia y Dacal improvisando una payada a orillas del agua.
+
+El documental recorre la canción rioplatense como consecuencia de los ritmos, fraseos y vivencias tangueras, folklóricas y rockeras. Articula testimonios de músicos consagrados —Fito Páez reflexionando sobre sus encuentros con Charly García y Spinetta, Daniel Melingo sobre su trayecto del rock al tango, Hugo Fattoruso, Fernando Cabrera, Gustavo Santaolalla— con artistas jóvenes de las dos orillas. El objetivo: trazar el mapa de esa tradición compartida, con foco en la gestación musical de la era post-Beatles en el Río de la Plata.
+
+La frase que sintetiza el espíritu del proyecto: **"No hacemos la música que nos gusta, hacemos la música de la que estamos hechos."**
+
+### Cómo se grabaron las canciones
+
+Las 20 piezas de la banda sonora son grabaciones en vivo realizadas especialmente para la película, en versiones inéditas que nunca se habían hecho antes. No son temas de estudio reciclados ni archivos históricos: cada colaboración fue concebida y ejecutada para el proyecto. El sonido —descrito por la prensa como de "soberbia calidad musical"— logra transmitir la intimidad de los ambientes: músicos en espacios de entrecasa, tomando mate. La ingeniería estuvo a cargo de Andrés Mayo.
+
+Fuente: [Diario Registrado, reseña del estreno, 16 de agosto de 2018](https://www.diarioregistrado.com/espectaculos/el-hechizo-de-la-cancion-rioplatense--por-fin-develado_a5b75c1e21479da374727aba7)
 
 ## Tracklist
 
@@ -50,6 +60,10 @@ El proyecto surgió como declaración de integración cultural: más de 70 músi
 | 19 | Acordate de Olvidarme | Lito Vitale, Pablo Dacal | 2:55 |
 | 20 | La Pura Verdad | La Ronda de La Dulce Barracas, Martín Reznik | 8:28 |
 
+## Concepto relacionado
+
+→ [Integración musical rioplatense](../concepts/integracion-rioplatense.md)
+
 ## Notas
 
-Escuchado por Gustavo a partir de octubre 2026. Compilación de referencia para la escena rioplatense contemporánea. Cruce con el dominio `concepts/`: candidato a generar una página de concepto sobre la integración musical Argentina-Uruguay.
+Escuchado por Gustavo a partir de octubre 2026. Compilación de referencia para la escena rioplatense contemporánea.
