@@ -47,7 +47,20 @@ actualiza en cada ingest.
 
 - [Integración musical rioplatense](concepts/integracion-rioplatense.md) — géneros, artistas y tradición compartida entre Argentina y Uruguay; anclado en el proyecto *Charco* (2017)
 - [Math Rock](concepts/math-rock.md) — subgénero del rock alternativo; compases irregulares, guitarras angulares, estructuras no convencionales
-- [Folk-rock de raíz latinoamericana (Argentina)](concepts/folk-rock-raiz-latinoamericana.md) — corriente que cruza rock, folklore y reggae; Córdoba como epicentro; TOCH, Los Espíritus, Eruca Sativa
+- [Folk-rock de raíz latinoamericana (Argentina)](concepts/folk-rock-raiz-latinoamericana.md)
+
+## Resúmenes anuales
+
+- [2016](summary/2016.md) — #1 artista: Villazul · #1 canción: No Te Vayas (Marama)
+- [2017](summary/2017.md) — #1 artista: Conjunto Falopa · #1 canción: Mi Condición (Milongas Extremas)
+- [2018](summary/2018.md) — #1 artista: Arnaldo Antunes · #1 canción: Soy Mi Soberano (Gustavo Cordera)
+- [2019](summary/2019.md) — #1 artista: Cordel do Fogo Encantado · #1 canción: Obá Iná (Metá Metá)
+- [2020](summary/2020.md) — #1 artista: El Cuarteto De Nos · #1 canción: Mario Neta (El Cuarteto De Nos)
+- [2021](summary/2021.md) — #1 artista: Camarón de la Isla · #1 canción: Glu Glu (Cuatro Pesos de Propina)
+- [2022](summary/2022.md) — #1 artista: Cuatro Pesos de Propina · #1 canción: Naufrago (Cuatro Pesos de Propina)
+- [2023](summary/2023.md) — #1 artista: Milongas Extremas · #1 canción: Alquimia (Edu Lombardo)
+- [2024](summary/2024.md) — #1 artista: El Cuarteto De Nos · #1 canción: Ya No Se Que Hacer Conmigo (El Cuarteto De Nos)
+- [2025](summary/2025.md) — #1 artista: El Cuarteto De Nos · #1 canción: Ya No Se Que Hacer Conmigo (El Cuarteto De Nos) — corriente que cruza rock, folklore y reggae; Córdoba como epicentro; TOCH, Los Espíritus, Eruca Sativa
 
 ## Summaries
 
