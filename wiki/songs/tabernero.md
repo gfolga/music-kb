@@ -2,17 +2,23 @@
 title: Tabernero
 type: entity
 sources:
+  - https://www.todotango.com/musica/tema/1761/Tabernero-El-tabernero/
   - https://www.reynaranjo.net/libros/el-origen-de-las-palabras-sexta-edicion/
-  - https://books.google.com/books/about/El_origen_de_las_palabras.html?id=33kvzwEACAAJ
 updated: 2026-10-04
 spotify_uri: spotify:track:1tnYS7NnhHvmJRgHGi1mtH
 ---
 
 ## Datos
 
-- **Artista**: [Tabaré Leyton](../entities/tabare-leyton.md)
-- **Álbum**: *Tabaré Leyton* (álbum homónimo)
-- **Spotify URI**: spotify:track:1tnYS7NnhHvmJRgHGi1mtH
+- **Autor (letra)**: Raúl Costa Oliveri (y Miguel Cafre según algunas fuentes)
+- **Autor (música)**: Fausto Frontera / Miguel Cafre
+- **Año**: 1927
+- **Versión más conocida**: Carlos Gardel (grabación 1927, con guitarras de Barbieri y Ricardo)
+- **Versión en historial de Gustavo**: [Tabaré Leyton](../entities/tabare-leyton.md) — *Tabaré Leyton* (álbum homónimo)
+- **Spotify URI (Gardel)**: spotify:track:1l15moKf17CUVurGgdVtYZ
+- **Spotify URI (Leyton)**: spotify:track:1tnYS7NnhHvmJRgHGi1mtH
+
+## Fuente: [TodoTango](https://www.todotango.com/musica/tema/1761/Tabernero-El-tabernero/)
 
 ## Escuchas (Gustavo)
 
